@@ -29,31 +29,32 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Team Lead
 * Responsibilities: UI
 
-### Johnny Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
-
-* Role: Developer
-* Responsibilities: Data
-
-### Jean Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
-
-* Role: Developer
-* Responsibilities: Dev Ops + Threading
-
 ### Su Peigeng
 
 <img src="images/bacon-strips.png" width="200px">
 
 [[github](http://github.com/bacon-strips)]
 [[portfolio](team/bacon-strips.md)]
+
+* Role: Developer
+* Responsibilities: Data
+
+### Stevan Gerard Gunawan
+
+<img src="images/gerardstevan.png" width="200px">
+
+[[github](http://github.com/gerardstevan)]
+[[portfolio](team/gerardstevan.md)]
+
+* Role: Developer
+* Responsibilities: Dev Ops + Threading
+
+### Ling Guan Ming
+
+<img src="images/ceereec.png" width="200px">
+
+[[github](http://github.com/ceereec)]
+[[portfolio](team/ceereec.md)]
 
 * Role: Developer
 * Responsibilities: UI
